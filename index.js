@@ -1,1 +1,1 @@
-console.log("git commit");
+console.log("Welcome to Git and Github");
